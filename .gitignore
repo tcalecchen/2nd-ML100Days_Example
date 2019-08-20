@@ -1,7 +1,3 @@
 
-example/data/application_test.csv
-example/data/application_train.csv
-example/data/HomeCredit_columns_description.csv
-example/data/house_test.csv
 *.csv
 *.gz
